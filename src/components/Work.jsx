@@ -89,7 +89,7 @@ const Work = () => {
               data-aos-delay={index * 100}
             >
               <div className="work-card">
-                <img src={img} alt="work" />
+                <img src={img} alt="Best wedding decoration in Indore by Thematic Events" />
               </div>
             </div>
           ))}
