@@ -55,7 +55,7 @@ const Work = () => {
             Haldi / Mehendi
           </button>
 
-          <button
+          {/* <button
             className={`btn btn-sm ${active === "cocktail" ? "btn-info" : "btn-light"}`}
             onClick={() => setActive("cocktail")}
           >
@@ -67,7 +67,7 @@ const Work = () => {
             onClick={() => setActive("engagement")}
           >
             Engagement
-          </button>
+          </button> */}
 
           <button
             className={`btn btn-sm ${active === "wedding" ? "btn-dark" : "btn-light"}`}

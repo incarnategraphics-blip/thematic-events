@@ -3,7 +3,7 @@ import React from "react";
 const Loader = () => {
   return (
     <div className="loader-wrapper">
-      <h1 className="pulse-text">Thematic Event</h1>
+      <h1 className="pulse-text">Thematic Events</h1>
 
       <style>{`
         .loader-wrapper {

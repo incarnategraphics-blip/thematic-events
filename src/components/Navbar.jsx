@@ -6,7 +6,7 @@ const Navbar = () => {
 
         {/* LOGO */}
         <a className="navbar-brand thematic-logo" href="/">
-          T h e m a t i c <span>   E v e n t s</span>
+          T h e m a t i c <span> E v e n t s</span>
         </a>
 
         {/* HAMBURGER BUTTON */}
@@ -55,7 +55,7 @@ const Navbar = () => {
           font-weight: 700;
           letter-spacing: 3px;
           text-decoration: none;
-          color: #000;
+          color: #020100;
           font-family: "Bebas Neue", sans-serif;
         }
 
